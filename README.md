@@ -1,4 +1,4 @@
-# SkillfactorySeaFight
+# SkillfactorySeaBattle
 # README
 
 ## Игра "Морской Бой"
